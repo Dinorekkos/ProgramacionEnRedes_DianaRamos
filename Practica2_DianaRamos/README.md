@@ -36,3 +36,7 @@ Veremos cuales son los pasos ideales para desarrollar un proyecto completo de la
 Descripción de la materia:
 
 Actualmente estamos viendo cómo generar gráficos en la computadora hablando directamente con la GPU.
+
+
+
+GITHUB REPOSOTORIO: https://github.com/Dinorekkos/ProgramacionEnRedes_DianaRamos
