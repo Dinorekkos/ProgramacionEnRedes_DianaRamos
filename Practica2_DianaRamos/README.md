@@ -23,3 +23,9 @@ Actualmente hemos visto la forma correcta de utilizar la herramienta GIT, sin em
 Descripción de la Materia
 
 Actualmente estamos aprendiendo escalas y notas, los básicos antes de iniciar a hacer música para videojuegos.
+
+# Proyecto Semestral
+## Nico Gaudenzi
+
+Descripción de la material: 
+Veremos cuales son los pasos ideales para desarrollar un proyecto completo de la forma más óptima y realista. 
