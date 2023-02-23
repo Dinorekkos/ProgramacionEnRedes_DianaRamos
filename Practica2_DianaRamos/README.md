@@ -29,3 +29,10 @@ Actualmente estamos aprendiendo escalas y notas, los básicos antes de iniciar a
 
 Descripción de la material: 
 Veremos cuales son los pasos ideales para desarrollar un proyecto completo de la forma más óptima y realista. 
+
+# Grafica Avanzada
+## Juan Jose Lopez (Banyo)
+
+Descripción de la materia:
+
+Actualmente estamos viendo cómo generar gráficos en la computadora hablando directamente con la GPU.
