@@ -8,3 +8,11 @@ Diana Ramos Garcia
 
 Analisamos juegos y la froma en las que sus niveles fueron diseñados, así como su lógica en arte y diccionario de palabras que se utilizan al hacer game design. test
 
+
+
+# Programación En Redes
+## Jonathan Miranda
+
+Descripción de la Materia:
+
+Actualmente hemos visto la forma correcta de utilizar la herramienta GIT, sin embargo  a lo largo del curso aprenderémos diferentes tecnologías.
